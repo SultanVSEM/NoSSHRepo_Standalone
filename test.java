@@ -1,9 +1,9 @@
 /**
-* @wi.implements COEDemo/COED-509:164 Returns author of this book
+* @wi.implements COEDemo/COED-509:2 Returns author of this book
 */
 
 /**
-* @wi.implements gitTester/GITT-372:164 Returns author of this book
+* @wi.implements gitTester/GITT-372:6 Returns author of this book
 */
 /* This is a simple Java program. 
 FileName : "HelloWorld.java". */
