@@ -11,6 +11,9 @@ class HelloWorld
 { 
 	// Your program begins with a call to main(). 
 	// Prints "Hello, World" to the terminal window. 
+	/**
+	* @wi.implements COEDemo/COED-509:16 Returns MAIN FUNCTION
+	*/
 	public static void main(String args[]) 
 	{ 
 		System.out.println("Hello, Phill ...."); 
