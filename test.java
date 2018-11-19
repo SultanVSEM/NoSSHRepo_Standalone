@@ -7,7 +7,7 @@
 */
 /* This is a simple Java program. 
 FileName : "HelloWorld.java". */
-class HelloWorld 
+class SSS_GITIntegration 
 { 
 	String name = "Sultan";
 	// Your program begins with a call to main(). 
@@ -21,14 +21,14 @@ class HelloWorld
 	/**
 	* @wi.implements COEDemo/COED-509:16 Function to Get the name
 	*/
-	public getName()
+	public SSS_getName()
 	{
 		return name;
 	}
 	/**
 	* @wi.implements COEDemo/COED-509:17 Function to Set the name
 	*/
-	public setName(String newName)
+	public SSS_setName(String newName)
 	{
 		name = newName;
 	}
