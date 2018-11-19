@@ -1,5 +1,5 @@
 /**
-* @wi.implements COEDemo/COED-509:2 Returns author of this book
+* @wi.implements COEDemo/COED-509:16 Returns author of this book
 */
 
 /**
