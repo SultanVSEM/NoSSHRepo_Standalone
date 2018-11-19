@@ -28,6 +28,9 @@ class SSS_GITIntegration
 	/**
 	* @wi.implements COEDemo/COED-509:17 Function to Set the name
 	*/
+	/**
+	* @wi.implements COEDemo/COED-510:17 Function to Set the name
+	*/
 	public SSS_setName(String newName)
 	{
 		name = newName;
