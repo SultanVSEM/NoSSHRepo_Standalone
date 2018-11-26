@@ -5,8 +5,6 @@
 /**
 * @wi.implements gitTester/GITT-372:6 Returns author of this book
 */
-/* This is a simple Java program. 
-FileName : "HelloWorld.java". */
 class SSS_GITIntegration 
 { 
 	String name = "Sultan";
@@ -33,6 +31,9 @@ class SSS_GITIntegration
 	*/
 	public SSS_setName(String newName)
 	{
+		/**
+		* @wi.implements COEDemo/COED-510:13 Function to Set the name
+		*/
 		name = newName;
 	}
 } 
